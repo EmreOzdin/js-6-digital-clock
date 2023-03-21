@@ -3,4 +3,4 @@
 I have built a digital clock
 
 
-https://tuncayarican.github.io/Digital_Clock/
+https://emreozdin.github.io/js-6-digital-clock/
